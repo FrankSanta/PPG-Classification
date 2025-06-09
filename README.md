@@ -55,13 +55,11 @@ A **novel custom F1-score** was proposed to better evaluate model performance un
 
 ## 🧰 Tools & Technologies
 
-- Python, NumPy, Pandas, Scikit-learn, SciPy
-- TensorFlow/Keras, PyTorch
-- Matplotlib, Seaborn
-- Jupyter Notebooks
-- ILP with `PuLP`
-- Signal processing libraries for PPG
-- CBAM & Attention Mechanisms
+- **Signal Processing Libraries** – for PSD analysis and Butterworth filtering.
+- **NumPy, SciPy, Pandas** – for data handling and statistical analysis.
+- **Matplotlib, Seaborn** – for visualization of signals and results.
+- **Scikit-learn** – for traditional ML models, preprocessing, and evaluation.
+- **TensorFlow/Keras, PyTorch** – for deep learning models including VGG, ResNet, LSTM, CBAM.
 
 ## 🧑‍💻 Authors
 
@@ -69,13 +67,3 @@ A **novel custom F1-score** was proposed to better evaluate model performance un
 - **Francesca Vacca** – Biomedical Engineering @ Politecnico di Milano  
 - **Francesco Santambrogio** – Computer Science & Engineering @ Politecnico di Milano  
 
-## 📈 Future Work
-
-- Improve class separability for PAC and PVC in ternary tasks.
-- Integrate domain-specific clinical knowledge to refine features.
-- Investigate transformer-based architectures for sequence learning.
-- Expand dataset to include more varied and balanced cases.
-
-## 📎 License
-
-This project is released under an open academic license. See [LICENSE](./LICENSE) for more.
