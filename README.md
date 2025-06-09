@@ -1,5 +1,7 @@
 # Cardiac Arrhythmia Classification from PPG Signals
 
+_This project was developed as part of the final assignment for the **Biomedical Data Analysis and Modeling** course at Politecnico di Milano._
+
 ## 🧠 Overview
 
 This project addresses the detection of cardiac arrhythmias from photoplethysmographic (PPG) signals, focusing on distinguishing:
