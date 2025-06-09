@@ -1,7 +1,5 @@
 # Cardiac Arrhythmia Classification from PPG Signals
 
-**A new metric for the classification of cardiac arrhythmias in PPG signals**
-
 ## 🧠 Overview
 
 This project addresses the detection of cardiac arrhythmias from photoplethysmographic (PPG) signals, focusing on distinguishing:
